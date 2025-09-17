@@ -3,6 +3,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Used claude to setup onCreateDialog in AddCityFragment
 
 ## Verbal Collaboration
 
